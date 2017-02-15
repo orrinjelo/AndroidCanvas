@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;domocolor.jpg&apos; to &apos;assets&apos;&#x0D;&#x0A;- Original project: &apos;Canvas Test 6-desktop&apos;&#x0D;&#x0A;- Destination element: &apos;assets&apos;&#x0D;&#x0A;- Original element: &apos;domocolor.jpg&apos;" description="Copy file" element1="src/domocolor.jpg" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1442712343727" target="/Canvas Test 6-android/assets" units="0" version="1.0"/>
+</session>
